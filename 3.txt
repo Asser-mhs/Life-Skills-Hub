@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Life Skills Hub - Time</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; color: #333;}
+    header {background: #2E7D32; color: white; padding: 20px; text-align: center;}
+    header h1 {margin: 0;}
+    nav {margin-top: 15px;}
+    nav a {color: white; margin: 0 12px; text-decoration: none; font-weight: bold;}
+    nav a:hover {text-decoration: underline;}
+    .content {padding: 20px; max-width: 900px; margin: auto;}
+    h2 {color: #2E7D32; margin-bottom: 20px; text-align: center;}
+    .card {background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px;}
+    .card h3 {color: #2E7D32; margin-top: 0;}
+    footer {background: #333; color: white; text-align: center; padding: 15px; margin-top: 20px;}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Life Skills Hub</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="2.html">Money</a>
+      <a href="3.html">Time</a>
+      <a href="4.html">Health</a>
+      <a href="5.html">Communication</a>
+      <a href="6.html">Organization</a>
+      <a href="7.html">Self-Development</a>
+    </nav>
+  </header>
+
+  <div class="content">
+    <h2>Time Management Tips</h2>
+<img src="save-time.png">
+    <div class="card">
+      <h3>Plan Your Day</h3>
+      <p>Write down tasks in the morning or the night before. Knowing what to do helps you stay focused.</p>
+    </div>
+
+    <div class="card">
+      <h3>Prioritize</h3>
+      <p>Do the most important tasks first. Not everything on your list has the same importance.</p>
+    </div>
+
+    <div class="card">
+      <h3>Break Tasks Down</h3>
+      <p>Big projects feel easier when split into smaller steps. Reward yourself after finishing each one.</p>
+    </div>
+
+    <div class="card">
+      <h3>Avoid Distractions</h3>
+      <p>Turn off notifications or find a quiet place to work so you can use your time better.</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Life Skills Hub | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
